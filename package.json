@@ -4,6 +4,9 @@
   "description": "Example server for Unity Socket.IO v3/v4 Asset",
   "author": "Firesplash Entertainment <support@firesplash.de>",
   "main": "server.js",
+  "scripts": {
+    "start": "node exampleServer"
+  },
   "dependencies": {
     "socket.io": "^4.1.2"
   }
