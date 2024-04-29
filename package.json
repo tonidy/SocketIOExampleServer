@@ -5,7 +5,7 @@
   "author": "Firesplash Entertainment <support@firesplash.de>",
   "main": "server.js",
   "scripts": {
-    "start": "node exampleServer"
+    "start": "node exampleServer.js"
   },
   "dependencies": {
     "socket.io": "^4.1.2"
